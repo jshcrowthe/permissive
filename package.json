@@ -1,0 +1,14 @@
+{
+  "name": "permissive",
+  "version": "0.0.1",
+  "description": "A package to help users work with browser APIs that require user permission",
+  "main": "index.js",
+  "keywords": [
+    "Permissions",
+    "Browser",
+    "Web APIs",
+    "getUserMedia"
+  ],
+  "author": "Josh Crowther <jshcrowthe@gmail.com>",
+  "license": "MIT"
+}
